@@ -1,1 +1,1 @@
-### Hello-world examples in different languages
+## Hello-world examples in various programming languages
