@@ -1,1 +1,2 @@
-## Hello-world examples in various programming languages
+# hello-world
+Hello, World in different programming languages.
